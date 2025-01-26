@@ -6,13 +6,13 @@ website:
   title: "template4"
   navbar:
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: HOME
-      - href: index.qmd
+      - href: about.qmd
         text: ABOUT
-      - href: index.qmd
+      - href: ingridients.qmd
         text: INGREDIENTS
-      - href: index.qmd
+      - href: products.qmd
         text: PRODUCTS
       - href: contact.qmd
         text: CONTACT
