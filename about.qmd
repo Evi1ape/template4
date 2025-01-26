@@ -1,9 +1,4 @@
 ---
 title: "About"
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
+Luméra is a hybrid makeup-meets-skincare brand designed for the modern individual who values both beauty and health. The brand focuses on clean, effective, and sustainable formulas that enhance natural beauty while nourishing the skin.
